@@ -1,5 +1,5 @@
 # OOP_Dictionary
-Bài tập lớn app Dictionary môn Lập trình hướng đối tượng
+Dictionary app
 
 ---
 
